@@ -1,7 +1,7 @@
 #------------------
 #
 # Código de cambio de DNS ante problemas de red en Windows
-# Escrito por: Ramal
+# Escrito por: Ramila
 #
 #-------------------
 
